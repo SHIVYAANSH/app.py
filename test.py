@@ -42,7 +42,7 @@ def get_image_description(image):
     return description
 
 # Streamlit app UI setup
-st.title("Gemini AI with Image Description Integration")
+st.title("StrayBot")
 st.subheader("Upload an image and ask your question:")
 
 # Upload image
